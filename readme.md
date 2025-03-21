@@ -1,4 +1,4 @@
-# Arduino Sensor Control Project
+# Arduino Microcontroller_Intro
 
 This project demonstrates basic sensor interaction and control using an Arduino microcontroller. The sketch allows you to control an LED's behavior using multiple input sensors.
 
